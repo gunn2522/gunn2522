@@ -1,36 +1,46 @@
-<H1><p align="center">Hi there 👋 I am Gunn Malhotra</p> </H1>
-<h3><p align="center">DevOps Engineer | AI/ML Explorer | Cybersecurity Enthusiast | Designer</p></h3>
-<h4><p align="center">Enthusiast From India 🌍</p> </h4>
+# Hi, I'm Gunn Malhotra 👋
 
-<br>
-<br>
+### Product & Data Analyst | AI Product Builder | Strategy & Growth
 
-<h3>Driven to build secure, intelligent, and scalable solutions that make a real impact. I'm passionate about using technology for good—solving real-world problems with clean, efficient, and ethical code</h3>
+I build products, analyze data, and turn real-world problems into structured, measurable solutions.
 
+My work sits at the intersection of **Product, Data, Business, and Technology** — from understanding user problems and defining product solutions to analyzing data, building dashboards, and measuring outcomes.
 
-<h2> What I'm Working On 🔭</h2>
-
-- 🧠 **AI-driven Career Consultant** to help students discover the right paths
-- ⚙️ Building **DevOps pipelines** for automated, scalable app deployments
-- 🛡️ Learning how to integrate **AI with modern cybersecurity practices**
+Currently exploring opportunities across **Product Management, Product Analytics, Business Analytics, Data Analytics, Growth, Strategy, Founder's Office, and AI Product roles**.
 
 ---
 
-<h2>What I'm Learning🌱</h2>
+## 🚀 What I'm Working On
 
-- Deep Dive into **Machine Learning**, **Model Deployment**, and **Prompt Engineering**
-- Mastering **CI/CD**, Docker, Kubernetes, Jenkins, and cloud platforms like **AWS**
-- Studying **Offensive & Defensive Security**, threat detection, and **ethical hacking**
-- Developing a strong grip on **Linux**, **Git**, and **Python-based tooling**
+- 📊 Building **SQL, Excel & Power BI** business and product analytics case studies
+- 📈 Exploring **funnel, retention, cohort, conversion & growth analytics**
+- 🧩 Creating **Product Management case studies, PRDs, roadmaps & prioritization frameworks**
+- 🤖 Building and experimenting with **AI-powered products and workflows**
+- 🎓 Building **Career Craft Cafe**, an EdTech / career-tech product
+- 💡 Exploring how **data, AI and product thinking** can improve business decisions
 
 ---
 
-<h2>Goals💡</h2>
+## 🧠 How I Solve Problems
 
-- ✅ Build end-to-end AI projects integrated with secure DevOps pipelines
-- ✅ Collaborate on impactful open-source projects in AI or InfoSec
-- ✅ Contribute to the **tech-for-good** community
-- ✅ Land a role where I can grow while helping others through technology
+```text
+Business Problem
+       ↓
+Understand the User
+       ↓
+Define the Problem
+       ↓
+Collect & Analyze Data
+       ↓
+Identify Insights
+       ↓
+Design / Prioritize Solution
+       ↓
+Build & Experiment
+       ↓
+Measure Impact
+       ↓
+Iterate
 
 
 <h2> Skills</h2>
